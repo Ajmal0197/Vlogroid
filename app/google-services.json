@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957407208961",
+    "firebase_url": "https://vlogroid.firebaseio.com",
+    "project_id": "vlogroid",
+    "storage_bucket": "vlogroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957407208961:android:098ae1e571ec0724",
+        "android_client_info": {
+          "package_name": "hasan.app.com.vlogroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957407208961-n1qpgbq6f18dsr6edrl60gvo1u3ch2gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hasan.app.com.vlogroid",
+            "certificate_hash": "160a8d2f25858dd5ff537c0c42260c17a6be1cf2"
+          }
+        },
+        {
+          "client_id": "957407208961-up87ubr1235crv2u9gdc55jmr3qs7pjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK-e7LXW_01KQX2QlaLnMXbO_sEKRQ-TQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957407208961-up87ubr1235crv2u9gdc55jmr3qs7pjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

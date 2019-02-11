@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--res+ARS+menuandmenu, menu directory+new+ MenuRF+ drawer_menu -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--DEFINING MENU FILES-->
+
+    <!--checkableBehaviour= Only one item can be clicked in menu-->
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_android"
+        android:title="Android"/>
+    <item
+        android:id="@+id/nav_ios"
+        android:title="iOS"/>
+    <item
+        android:id="@+id/nav_news"
+        android:title="News"/>
+    <item
+        android:id="@+id/nav_fun"
+        android:title="Fun"/>
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+
+        <item android:id="@+id/nav_settings"
+            android:title="Settings" />
+
+        <item android:id="@+id/nav_aboutus"
+            android:title="About Us" />
+
+    </group>
+
+
+</menu>
