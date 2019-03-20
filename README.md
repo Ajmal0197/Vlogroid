@@ -5,7 +5,7 @@ I have setup a free blog using blogger. I have used this blog to read feeds and 
 
 I have used Networking, Image Loading, JSON parsing, notifications, webview etc in this project. 
 
-**Admin can scroll throw multiple blogs:**
+**User can scroll throw multiple blogs:**
 
 ![sc vlogroid(2)](https://user-images.githubusercontent.com/13982255/54707817-f5db1080-4b67-11e9-9236-6100e3be0cdd.png)
 
