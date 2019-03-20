@@ -1,7 +1,12 @@
 # Blogroid
 Blog App which has realtime blog update feature by admin. It is using blogger api and the admin can post new blogs on blogger website which can be seen by the app user.
 
-I have setup a free blog using blogger. I have used this blog to read feeds and show these blog posts in the Android App. Blogger provides API which can be used to show them in an app. JSON is used as a format for feeds and data.
+I have setup a free blog using blogger.
+
+![Capture](https://user-images.githubusercontent.com/13982255/54710468-c0d1bc80-4b6d-11e9-98f0-726857626818.PNG)
+
+
+I have used this blog to read feeds and show these blog posts in the Android App. Blogger provides API which can be used to show them in an app. JSON is used as a format for feeds and data.
 
 I have used Networking, Image Loading, JSON parsing, notifications, webview etc in this project. 
 
